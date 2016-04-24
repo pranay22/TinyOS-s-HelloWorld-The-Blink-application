@@ -7,7 +7,7 @@ running blink app in TinyOS
 
 **Project Goals**  
 
-▪	Setup TinyOS
-▪	Run modified blink on Tmote Sky
-▪	Run modified Test Serial for Tmote Sky
-▪	Only sme part of the codes are made publicly available here (due to university NDA)  
+▪	Setup TinyOS  
+▪	Run modified blink on Tmote Sky  
+▪	Run modified Test Serial for Tmote Sky  
+▪	Only sme part of the codes are made publicly available here (due to university NDA)    
